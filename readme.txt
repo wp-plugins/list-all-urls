@@ -15,7 +15,7 @@ This plugin will add a page to the admin panel that displays a numerically order
 
 Now, why would such a feature be helpful? 
 
-First off, it allows to to quickly check all of your website URLs to ensure they are using valid characters (i.e no % symbols that may have been entered by copying and pasting from another document). 
+First off, it allows you to quickly check all of your website URLs to ensure they are using valid characters (i.e no % symbols that may have been entered by copying and pasting from another document). 
 
 Secondly, let's say you're planning on moving your website to a new URL, or perhaps you would like to update many of your website's existing URLs for better SEO or accessibility. This plugin give you a quick and easy way to view all website URLs on one single screen and can serve as a great starting point for creating a list of 301 redirects as part of an .htaccess file. 
 
