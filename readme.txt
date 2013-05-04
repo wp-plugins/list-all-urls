@@ -40,7 +40,7 @@ If you spot a bug or have an idea of how I can improve my code please let me kno
 Post a question in the support forum for this plugin and I will try to answer as soon as possible.
 
 == Screenshots ==
-`/assets/screenshot-1.png`
+The List All URLs admin page
 
 == Changelog ==
 
