@@ -4,7 +4,7 @@
 Plugin Name: List all URLs
 Plugin URI: http://www.evanwebdesign.com/
 Description: Creates a page in the admin panel under Settings > List All URLs that outputs an ordered list of all of the website's published URLs. 
-Version: 0.1
+Version: 0.2
 Author: Evan Scheingross
 Author URI: http://www.evanwebdesign.com/
 License: GPL v2 or higher
