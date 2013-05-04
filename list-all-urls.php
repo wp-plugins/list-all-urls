@@ -1,5 +1,4 @@
 <?php
-
 /*
 Plugin Name: List all URLs
 Plugin URI: http://www.evanwebdesign.com/
